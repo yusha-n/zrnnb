@@ -1,4 +1,4 @@
-# zrnnb
+# ZRNNB
 ## Who are we?
 We are real fans of ZRN
 ## Why create this project?
