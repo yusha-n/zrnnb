@@ -1,4 +1,6 @@
 # ZRNNB
+## Cover
+![cover](/photo/cover.jpg)
 ## Who are we?
 We are real fans of ZRN
 ## Why create this project?
