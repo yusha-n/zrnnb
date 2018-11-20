@@ -1,6 +1,8 @@
 # ZRNNB
 ## Cover
 ![cover](/photo/cover.jpg)
+## Theme song
+[![Watch the video](/photo/themesongcover.jpg)](https://www.youtube.com/watch?v=gHbo2mtroTk)
 ## Who are we?
 We are real fans of ZRN
 ## Why create this project?
